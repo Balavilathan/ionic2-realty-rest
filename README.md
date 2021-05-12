@@ -8,8 +8,8 @@ Watch the video [here](https://youtu.be/oKHrh_PMHns).
 
 1. Click the Button below to deploy the application on Heroku.
 
-## [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-<a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+## <a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 Your own instance of the application is automatically deployed.
 
 
